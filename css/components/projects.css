@@ -24,11 +24,11 @@
     margin-bottom: 12rem;
 }
 
-.projects ul li .image img{
+.projects ul li .image img {
     width: 100%;
-    min-width: 40rem;
-    max-width: 47rem;
-    height: auto;
+    max-width: 47rem; 
+    height: 300px; 
+    object-fit: cover; 
 }
 
 .projects ul li .projects__info{
